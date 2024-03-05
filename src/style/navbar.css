@@ -1,0 +1,22 @@
+.box1 {
+  border: solid 1px black;
+  width: 100%;
+  height: 63px;
+  background-color: #011936ff;
+}
+
+.box {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 12px;
+}
+
+.box button {
+  width: 90px;
+  height: 39px;
+  font-size: larger;
+  background-color: #f4fffdff;
+  border-radius: 9px;
+  background-color: #f4fffdff;
+  color: #ef6079ff;
+}
